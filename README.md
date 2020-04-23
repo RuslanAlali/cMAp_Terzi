@@ -1,7 +1,5 @@
-# cMAp_Terzi
+# Connectivety map approach
 
-
-# This is data from connectivety map
 ## Part1: RNA seq
 It was performed with R on Data from EGF-Tgfa Nx mice.
 The significant changes are stored in *tgfa_fixed2_parent_ShamvsNx_res_mouse.csv*
