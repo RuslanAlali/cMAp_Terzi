@@ -11,3 +11,8 @@ Data where downloaded from **GSE92742**, and analyzed with python/cmapPy. file i
 
 ## Part3: Results
 Saved in PowerPoint presentation format
+
+
+## To compare with cMAP site
+cMAP site is able to test list of upregulated and downregulated genes against their database. The results are **very different** that what the analysis shows.
+A list of scores are saved in "clue_cMAP_HA1E_vs_Terzi.txt"
