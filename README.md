@@ -29,4 +29,4 @@ A list of scores are saved in "clue_cMAP_HA1E_vs_Terzi.txt"
 
 **cMAP_stats.pptx** : PowerPoint of the results.
 
-**clue_cMAP_HA1E_vs_Terzi.txt** Table from the connectivity map site, reveals score of drugs vs top 150+150 genes in RNA-Seq experiment.
+**clue_cMAP_HA1E_vs_Terzi___** Tables from the connectivity map site, reveals score of drugs vs top 150 genes, 150-300 and 300-450 down regulated genes and top 150, top 150 and 150-300 up regulated genes in RNA-Seq experiment.
